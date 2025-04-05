@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aagam Jain!
 
 ## 🚀 About Me
-I'm a B.Tech CSE student who loves to build cool web apps and solve DSA problems!
+I'm a B.Tech CSE student who loves to build cool web pages and solve DSA problems!
 
 ---
 
