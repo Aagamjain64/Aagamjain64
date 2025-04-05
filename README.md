@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Aagam Jain!
 
-<!--
-**Aagamjain64/Aagamjain64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a B.Tech CSE student who loves to build cool web apps and solve DSA problems!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+### 💻 Programming Languages:
+- C / C++
+- JavaScript
+- Python (basic)
+
+### 🌐 Web Development:
+- HTML, CSS, JavaScript
+- Node.js, Express.js
+- MongoDB, EJS
+
+### ⚙️ Tools:
+- Git & GitHub
+- VS Code
+
