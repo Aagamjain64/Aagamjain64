@@ -4,6 +4,11 @@
 I'm a B.Tech CSE student who loves to build cool web pages and solve DSA problems!
 
 ---
+connect with me
+### Connect with me:
+- [Instagram](https://instagram.com/aagamjain_64)
+- [LinkedIn](https://linkedin.com/in/Aagam-jain)
+
 
 ## 🧠 Skills
 
