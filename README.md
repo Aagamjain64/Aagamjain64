@@ -6,8 +6,10 @@ I'm a B.Tech CSE student who loves to build cool web pages and solve DSA problem
 ---
 connect with me
 ### Connect with me:
-- [Instagram](https://instagram.com/aagamjain_64)
-- [LinkedIn](https://linkedin.com/in/Aagam-jain)
+### Connect with me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-@aagamjain__64-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aagamjain_64)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@aagam--jain--135040303-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aagam-jain-135040303)
 
 
 ## 🧠 Skills
